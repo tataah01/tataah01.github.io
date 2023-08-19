@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  tataah01
 
 # Build settings
-remote_theme: Lightspeed
+theme: Lightspeed
 plugins:
   - jekyll-feed
   - jekyll
